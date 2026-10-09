@@ -64,3 +64,21 @@
 | 5 | joshkim | https://x.com/joshkim/status/2095633918611636627 | 产品方 |
 | 备选 | XFreeze | https://x.com/XFreeze/status/2099904422977413501 | 未知 |
 | 备选 | poteto | https://x.com/poteto/status/2105377066942349794 | 产品方 |
+
+### Instinct（访问 2026-10-09）
+| 来源 | 链接 | 备注 |
+|---|---|---|
+| Every：Personal agents comparison | https://every.to/personal-agents-comparison | 8 款对比，Instinct 7 维度主要依据 |
+| Vellum：Official Instinct Breakdown | https://www.vellum.ai/blog/official-instinct-breakdown | 同类产品公司，利益相关 |
+| Noma Security：Personal AI Agent Security | https://noma.security/blog/personal-ai-agent-security-discovering-and-governing-dots-grok-bot-muse-muse-code | AI 安全公司，利益相关 |
+| Axios：The era of the personal agent has finally arrived | https://www.axios.com/2026/09/20/ai-assistant-openai-meta-muse-instinct-grok-apple | 原文无法直接访问，内容来自搜索摘要 |
+| Michael Parekh：AI Agents at the App Store Gates | https://michaelparekh.substack.com/p/ai-ai-agents-at-the-app-store-gates | 40% 用户交出信用卡、Chesky 评价 |
+| Top5Apps：Best Personal AI Agents | https://top5apps.ai/best-ai-apps/best-personal-ai-agents/ | 榜单 |
+| Forbes：With 'Dots,' OpenAI's Answer To Muse And Instinct Is Here | https://www.forbes.com/sites/the-prompt/2026/09/29/with-dots-openais-answer-to-muse-and-instinct-is-here/ | |
+
+### 职场执行层（访问 2026-10-09）
+| 来源 | 链接 |
+|---|---|
+| VentureBeat：Grok Bot persistent digital coworkers | https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month |
+| VentureBeat：OpenAI launches Dots, always-on AI agent coworkers | https://venturebeat.com/technology/openai-launches-dots-always-on-ai-agent-coworkers-and-chatgpt-space-where-they-can-collaborate-with-human-teams |
+| Beam.ai：Grok Bot for Enterprise AI Agents | https://beam.ai/agentic-insights/grok-bot-enterprise-ai-agents |

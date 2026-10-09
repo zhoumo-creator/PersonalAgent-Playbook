@@ -20,18 +20,19 @@
 
 ## 2026 年秋天：个人 Agent 集中上线
 
-一个多月里，四家公司先后发布了自己的个人 Agent：
+两个月里，五家公司先后推出了自己的个人 Agent：
 
 ```
+2026-08      Instinct   Spear Street     邀请制上线
 2026-08-11   Grok Bot   SpaceXAI / xAI   开放 beta
 2026-09-08   Muse       Meta
 2026-09-28   Cue        Manus
 2026-09-29   Dots       OpenAI
 ```
 
-它们的共同点：**每个 Agent 都有一台自己的云端电脑**，你不在的时候也能替你上网、填表、发消息。[^cp]
+它们的共同点：**每个 Agent 都有一台自己的云端电脑**，你不在的时候也能替你上网、填表、发消息。[^cp][^vellum]
 
-四款产品分别是什么、适合谁，见 [02 · 7 个维度看懂四款产品](../02-7个维度看懂四款产品/README.md)。
+它们分别是什么、适合谁，见 [02 · 7 个维度看懂主流 PersonalAgent](../02-7个维度看懂四款产品/README.md)。
 
 ## 你的 Agent 到了哪一级？
 
@@ -41,9 +42,9 @@
 |---|---|---|
 | **L0 · 会聊** | 回答问题 | 普通聊天 AI |
 | **L1 · 会用工具** | 搜索、读文件、算数 | 能联网搜索的 AI |
-| **L2 · 有自己的电脑** | 自己打开网站、点按钮、填表 | 四款产品都到了这一级 |
-| **L3 · 你走了它还在干** | 定时运行、被事件触发 | Grok Bot、Dots、Muse |
-| **L4 · 有自己的身份** | 有独立的邮箱、电话、钱包，替你对外 | Cue |
+| **L2 · 有自己的电脑** | 自己打开网站、点按钮、填表 | 五款产品都到了这一级 |
+| **L3 · 你走了它还在干** | 定时运行、被事件触发 | Grok Bot、Dots、Muse、Instinct |
+| **L4 · 有自己的身份** | 有独立的邮箱、电话、钱包，替你对外 | Cue；Instinct 部分做到（能打电话，自有邮箱推出中） |
 | **L5 · 组队干活** | 多个 Agent 分工协作 | Grok Bot、Cue |
 
 > 这套分级是本书作者的整理，不是行业标准。各产品的归属依据见第 02 章的出处。
@@ -55,3 +56,4 @@
 ## 参考来源
 
 [^cp]: CodePick,《Cue vs Muse vs Grok Bot vs Dots (2026)》, https://codepick.dev/en/compare/cue-vs-muse-vs-grok-bot-vs-dots-2026/ ｜访问 2026-10-08。各产品发布日期另见 [SOURCES.md](../SOURCES.md)。
+[^vellum]: Vellum,《Official Instinct Breakdown (2026)》, https://www.vellum.ai/blog/official-instinct-breakdown ｜Instinct 上线时间来源｜访问 2026-10-09
