@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F6B97F" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#F6B97F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="agent" cx="38%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#F7A866"/>
+      <stop offset="100%" stop-color="#E07B39"/>
+    </radialGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix values="0 0 0 0 0.45  0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0.06 0"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" fill="#FBF6EE"/>
+  <rect width="1280" height="640" filter="url(#grain)"/>
+
+  <!-- 插画：Agent 递给人一张卡片 -->
+  <circle cx="900" cy="300" r="230" fill="url(#glow)"/>
+  <circle cx="900" cy="300" r="112" fill="url(#agent)"/>
+  <circle cx="872" cy="290" r="9" fill="#FBF6EE"/>
+  <circle cx="926" cy="290" r="9" fill="#FBF6EE"/>
+  <path d="M878 326 Q899 342 920 326" stroke="#FBF6EE" stroke-width="6" fill="none" stroke-linecap="round"/>
+
+  <path d="M1000 352 Q1040 380 1056 420" stroke="#E9B98F" stroke-width="3" fill="none" stroke-dasharray="2 10" stroke-linecap="round"/>
+
+  <g transform="translate(1046 392) rotate(-10)">
+    <rect x="0" y="0" width="74" height="92" rx="10" fill="#FFFDF8" stroke="#E7CDB3" stroke-width="2"/>
+    <line x1="14" y1="24" x2="58" y2="24" stroke="#E07B39" stroke-width="4" stroke-linecap="round"/>
+    <line x1="14" y1="42" x2="60" y2="42" stroke="#E7CDB3" stroke-width="3" stroke-linecap="round"/>
+    <line x1="14" y1="56" x2="52" y2="56" stroke="#E7CDB3" stroke-width="3" stroke-linecap="round"/>
+    <line x1="14" y1="70" x2="44" y2="70" stroke="#E7CDB3" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <circle cx="1150" cy="500" r="40" fill="#F3D3B5"/>
+  <path d="M1088 600 Q1150 520 1212 600 Z" fill="#F3D3B5"/>
+
+  <circle cx="760" cy="150" r="4" fill="#F0C29A"/>
+  <circle cx="1060" cy="170" r="3" fill="#F0C29A"/>
+  <circle cx="1120" cy="250" r="5" fill="#F3D3B5"/>
+  <circle cx="740" cy="460" r="3" fill="#F3D3B5"/>
+
+  <!-- 文字 -->
+  <g font-family="'PingFang SC','Hiragino Sans GB','Helvetica Neue',sans-serif">
+    <text x="96" y="230" font-size="76" font-weight="700" fill="#3B2A20" letter-spacing="-1">PersonalAgent</text>
+    <text x="96" y="314" font-size="76" font-weight="700" fill="#E07B39" letter-spacing="-1">Playbook</text>
+    <rect x="98" y="350" width="56" height="4" rx="2" fill="#E07B39"/>
+    <text x="96" y="410" font-size="30" font-weight="500" fill="#5A463A">从 0 到 1 搭建你的 PersonalAgent</text>
+    <text x="96" y="456" font-size="22" fill="#8A7466">可复制的配置 · Prompt · 工作流</text>
+    <text x="96" y="566" font-size="18" fill="#A8927F">持续更新的简中 PersonalAgent 知识库　·　by zhoumo</text>
+  </g>
+</svg>
