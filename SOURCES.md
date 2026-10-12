@@ -82,3 +82,19 @@
 | VentureBeat：Grok Bot persistent digital coworkers | https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month |
 | VentureBeat：OpenAI launches Dots, always-on AI agent coworkers | https://venturebeat.com/technology/openai-launches-dots-always-on-ai-agent-coworkers-and-chatgpt-space-where-they-can-collaborate-with-human-teams |
 | Beam.ai：Grok Bot for Enterprise AI Agents | https://beam.ai/agentic-insights/grok-bot-enterprise-ai-agents |
+
+### 案例 01：让一个 bot 替你管一整支队（访问 2026-10-12）
+| 来源 | 链接 | 备注 |
+|---|---|---|
+| 0xMorlex 原帖与提示词 | https://x.com/0xMorlex/status/2108905243249434777 | 转述，"not written or endorsed by her" |
+| Lauren Tan：反馈→修复闭环 | https://x.com/poteto/status/2107510472601985336 | 利益相关：产品方 |
+| Lauren Tan：用 Dr Eggbot 建 bot | https://x.com/poteto/status/2108592835046101383 | 产品方 |
+| Dr Eggbot（Marketplace） | https://x.ai/bot/marketplace/bots/dr-eggbot-v2 | |
+| Lauren Tan：cloud agent 和 project 怎么分 | https://x.com/i/status/2107954395979944361 | 产品方 |
+| pstack 仓库 | https://github.com/cursor/plugins/tree/main/pstack | |
+| Lauren Tan：pstack 验证技能 | https://x.com/poteto/status/2082874054483255805 | 产品方 |
+| Behind the Craft 访谈 | https://creatoreconomy.so/p/grok-bot-team-14-best-bots-peng-zheng-lauren-tan | |
+| Grok Bot for Engineering（官方指南） | https://x.ai/bot/guides/grok-bot-for-engineering | |
+| 「agents merge their own PRs」原话 | https://x.com/poteto/status/2102201638824157449 | 产品方 |
+| 按风险分级合并的说明 | https://x.com/poteto/status/2108283057581195413 | 产品方 |
+| Lauren Tan 的 X 主页 | https://x.com/poteto | |
